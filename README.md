@@ -37,10 +37,6 @@ A robust Spring Boot backend for a Car Rental Management System with REST API en
 - **Security**: Spring Security
 - **Build Tool**: Maven
 
-## Database Schema
-
-![Database Schema](image.png)
-
 ## API Documentation
 
 ### User Endpoints
